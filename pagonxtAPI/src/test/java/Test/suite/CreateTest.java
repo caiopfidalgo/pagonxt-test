@@ -1,4 +1,4 @@
-package modules.users;
+package Test.suite;
 
 import config.PathConfig;
 import io.restassured.http.ContentType;
